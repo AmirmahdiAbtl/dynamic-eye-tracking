@@ -1,6 +1,6 @@
 # Real-Time Eye Gaze Tracking with Dynamic Calibration
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on **real-time gaze tracking and estimation** using **MediaPipe’s Face Mesh model**. The system dynamically recalibrates gaze positions to account for **head movement, facial scaling, and distance variations**, making gaze tracking more robust and reliable. 
 
